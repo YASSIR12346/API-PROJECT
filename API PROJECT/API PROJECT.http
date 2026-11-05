@@ -1,0 +1,6 @@
+@API_PROJECT_HostAddress = http://localhost:5177
+
+GET {{API_PROJECT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
